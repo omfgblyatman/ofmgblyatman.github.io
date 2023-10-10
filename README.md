@@ -2,7 +2,7 @@
 <body>
 
 <h1>hello everyone</h1>
-<img src="[https://i.imgur.com/R8HA6MU.jpg](https://imgur.com/OC9OlT0)" width="350"><br>
+<img src="https://imgur.com/t/blyat/CnIK6Fe" width="350"><br>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script>
 $(document).ready(function(){
