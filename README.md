@@ -2,7 +2,7 @@
 <body>
 
 <h1>hello everyone</h1>
-<img src="https://i.imgur.com/Zpy10Ux.mp4" width="350"><br>
+<img src="https://i.imgur.com/aEE1u65.jpeg" width="350"><br>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script>
 $(document).ready(function(){
@@ -12,10 +12,10 @@ $(document).ready(function(){
 });
 </script>
   <div>
-  <p>maybe you can see a blyat seal above<br>
+  <p>maybe you can see a blyatman{IT IS NOT A BATMAN} above<br>
 if not then it's your bad, not mine<br>
 it will never be my fault</p>
-<button>if you see then click this</button>
+
 </div>
 <p>  
 <br>
