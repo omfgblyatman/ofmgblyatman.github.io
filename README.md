@@ -21,7 +21,7 @@ it will never be my fault</p>
 <br>
   
 <h2>about me</h2>
-<h4>I keep fish, I am alive, I write code and I like you ;p. </h4>
+<h4>I keep fish, I am a male, I write code and I like you ;p. </h4>
 
 <h2>major in</h2>
 <ul>
