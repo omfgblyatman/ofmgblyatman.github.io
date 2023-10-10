@@ -5,7 +5,6 @@
 <img src="https://i.imgur.com/aEE1u65.jpeg" width="350"><br>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script>
-
 $(document).ready(function(){
   $("button").click(function(){
     $("p").hide();
