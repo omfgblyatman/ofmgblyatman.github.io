@@ -1,2 +1,2 @@
-# ofmgblyatman.github.io
+# omfgblyatman.github.io
 my own stuff
